@@ -1,0 +1,55 @@
+/** 
+ * @author Bjarne Stroustrup
+ */
+public class Rectangle {
+
+    /**
+     * Sets the length of the rectangle.
+     * @param length the length
+     */
+    public void setLength ( double length ) {
+
+    /**
+     * Query for the width of the rectangle.
+     * @return the width
+     */
+    public double getWidth ( ) {
+
+    /**
+     * Sets the width of the rectangle.
+     * @param width the width
+     */
+    public void setWidth ( double width ) {
+
+    /**
+     * Query for the area of the rectangle.
+     * @return the area (length * width)
+     */
+    public double getArea ( ) {
+
+     /**
+     * Query for the x coordinate of the rectangle.
+     * @return the x coordinate
+     */
+    public int getX ( ) {
+
+    /**
+     * Query for the y coordinate of the rectangle.
+     * @return the y coordinate
+     */
+    public int getY ( ) {
+
+    /**
+     * Moves the rectangle to a new position.
+     * @param x the new x coordinate
+     * @param y the new y coordinate
+     */
+    public void moveTo ( int x, int y ) {
+
+    /**
+     * @return a string representation of the Rectangle
+     */
+    public String toString ( ) {
+
+
+
